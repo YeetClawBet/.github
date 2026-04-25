@@ -1,2 +1,1 @@
-# .github
-Just Yeet It!
+# Just Yeet It!
